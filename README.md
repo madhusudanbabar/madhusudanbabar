@@ -1,4 +1,4 @@
-![Kryptöñ]("https://github.com/madhusudanbabar/madhusudanbabar/blob/master/custom%20%E2%80%93%201.png")
+![Kryptöñ]("https://raw.githubusercontent.com/madhusudanbabar/madhusudanbabar/master/custom%20%E2%80%93%201.png")
 
 ### Hi there 👋
 
