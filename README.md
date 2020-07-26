@@ -1,11 +1,13 @@
+![Kryptöñ]("./custom – 1.png")
+
 ### Hi there 👋
 
 <!--
 **madhusudanbabar/madhusudanbabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hello there, I'm krypton,
-i am an engineering student with great passion for UI/UX designing, i love to create beautiful user interfaces. i also have interest in cyber security, competitive programming, and embedded systems.
+##### I'm Kryptöñ,
+An engineering student with great passion for UI/UX designing, i love to create beautiful user interfaces. i also have interest in cyber security, competitive programming, and embedded systems.
 
 
 - 🔭 I’m currently working on UI/UX
