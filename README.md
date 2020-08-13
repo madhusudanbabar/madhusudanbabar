@@ -1,4 +1,4 @@
-![Kryptöñ]("https://madhusudanlive.web.app/_nuxt/img/profile_pic.456918c.jpg")
+![Kryptöñ](https://madhusudanlive.web.app/_nuxt/img/profile_pic.456918c.jpg "Kryptöñ")
 
 ### Hi there 👋
 
