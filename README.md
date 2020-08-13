@@ -1,4 +1,4 @@
-![Kryptöñ]("https://raw.githubusercontent.com/madhusudanbabar/madhusudanbabar/master/custom%20%E2%80%93%201.png")
+![Kryptöñ]("https://madhusudanlive.web.app/_nuxt/img/profile_pic.456918c.jpg")
 
 ### Hi there 👋
 
@@ -16,4 +16,4 @@ An engineering student with great passion for UI/UX designing, i love to create 
   - LinkedIn:-https://www.linkedin.com/in/madhusudan-babar/
   - medium:- https://medium.com/@madhusudanbabar
   - Instagram:- https://instagram.com/madhu_babar
-  - Portfolio:- https://madhusudanbabar.github.io/
+  - Portfolio:- https://madhusudan.live/
