@@ -1,7 +1,7 @@
 <!-- 
 ![Kryptöñ](https://github.com/madhusudanbabar/madhusudanbabar/raw/master/custom%20%E2%80%93%201.png "Kryptöñ")
 -->
-# Krypton 👨🏻‍💻 #WebDeveloper
+# Kryptöñ 👨🏻‍💻 #WebDeveloper
 
 <!--
 **madhusudanbabar/madhusudanbabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,15 @@
 [![GitHub followers](https://img.shields.io/github/followers/madhusudanbabar?label=Follow&style=flat-square)](https://github.com/madhusudanbabar/?tab=follow)
 ![madhusudanbabar](https://komarev.com/ghpvc/?username=madhusudanbabar)
 
-### Hey there👋, I'm Kryptöñ,
+
 <img align="left" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/source.gif" />
-Let me introduce myself :slightly_smiling_face: I'm an engineering student. as you all coding was my hobby and life style. I was fond of coding at the very beginning of my high school. Although my department is electronics and telecommunications, I'm more interested in computers 😜,I have great passion for UI/UX designing, I love to create beautiful user interfaces. I also have interest in cyber security, competitive programming, and embedded systems. I am currently working at a startup as software development lead but I mostly work as a web developer. Besides that I am a blogger, I love writing technical articles.
-  
+
+### Hey there👋, I'm Kryptöñ,
+
+Let me introduce myself :slightly_smiling_face: I'm an engineering student. as you all coding is my hobby and life style. I was fond of coding at the very beginning of my high school. Although my department is electronics and telecommunications, I'm more interested in computers 😜,I have great passion for UI/UX designing, I love to create beautiful user interfaces. I also have interest in cyber security, competitive programming, and embedded systems. I am currently working at a startup as software development lead but I mostly work as a web developer. Besides that I am a blogger, I love writing technical articles.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning nuxtJS.
@@ -27,6 +32,45 @@ Let me introduce myself :slightly_smiling_face: I'm an engineering student. as y
   - medium:- https://medium.com/@madhusudanbabar
   - Instagram:- https://instagram.com/madhu_babar
   - Portfolio:- https://madhusudan.live/
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## skills
+### languages
+![javascript](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=ffffff)
+![typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue?style=for-the-badge&logo=c&logoColor=ffffff)
+![python](https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=python&logoColor=ffffff)
+
+### UI 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3)
+![sass](https://img.shields.io/badge/-yarn-C96195?style=for-the-badge&logo=sass&logoColor=ffffff)
+
+### Frontend Frameworks
+![NuxtJS](https://img.shields.io/badge/-nuxtJS-00BF8A?style=for-the-badge&logo=nuxt.JS&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular&logoColor=ffffff)
+![Vue.JS](https://img.shields.io/badge/-Vue.JS-00BF8A?style=for-the-badge&logo=Vue.JS&logoColor=ffffff)
+
+### Backend Frameworks
+![ExpressJS](https://img.shields.io/badge/-Express%20JS-007ACC?style=for-the-badge&logo=Express&logoColor=ffffff)
+![nodejs](https://img.shields.io/badge/-Node.JS-026e00?style=for-the-badge&logo=Node.JS&logoColor=ffffff)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-mongoDB-409937?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-mySQL-orange?style=for-the-badge&logo=mysql&logoColor=ffffff)
+
+### IDE/Editors
+![VSCode](https://img.shields.io/badge/-mySQL-0873B3?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=ffffff)
+
+### Package Managers
+![NPM](https://img.shields.io/badge/-npm-red?style=for-the-badge&logo=npm&logoColor=ffffff)
+![yarn](https://img.shields.io/badge/-yarn-darkblue?style=for-the-badge&logo=yarn&logoColor=ffffff)
+
+### Exploring
+![Electron](https://img.shields.io/badge/-Electron%20JS-1a202c?style=for-the-badge&logo=Electron&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-007ACC?style=for-the-badge&logo=Flutter)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
