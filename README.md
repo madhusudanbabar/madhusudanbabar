@@ -46,6 +46,8 @@ Let me introduce myself :slightly_smiling_face: I'm an engineering student. as y
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-7010EF?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![sass](https://img.shields.io/badge/-sass-C96195?style=for-the-badge&logo=sass&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-adobexd-450135?style=for-the-badge&logo=adobexd&logoColor=450135)
 
 ### Frontend Frameworks
 <!-- 
@@ -53,7 +55,7 @@ Let me introduce myself :slightly_smiling_face: I'm an engineering student. as y
 -->
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/nuxtjs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/nuxtjs-%2335495e?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 <!--
 ![Vue.JS](https://img.shields.io/badge/-Vue.JS-00BF8A?style=for-the-badge&logo=Vue.JS&logoColor=ffffff)
 -->
