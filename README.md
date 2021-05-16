@@ -44,17 +44,26 @@ Let me introduce myself :slightly_smiling_face: I'm an engineering student. as y
 ### UI 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3)
-![Bootstrap](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3)
-![sass](https://img.shields.io/badge/-yarn-C96195?style=for-the-badge&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-7010EF?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![sass](https://img.shields.io/badge/-sass-C96195?style=for-the-badge&logo=sass&logoColor=ffffff)
 
 ### Frontend Frameworks
+<!-- 
 ![NuxtJS](https://img.shields.io/badge/-nuxtJS-00BF8A?style=for-the-badge&logo=nuxt.JS&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular&logoColor=ffffff)
+-->
+<img alt="Nuxt.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular&logoColor=ffffff />
+<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+<!--
 ![Vue.JS](https://img.shields.io/badge/-Vue.JS-00BF8A?style=for-the-badge&logo=Vue.JS&logoColor=ffffff)
+-->
 
 ### Backend Frameworks
 ![ExpressJS](https://img.shields.io/badge/-Express%20JS-007ACC?style=for-the-badge&logo=Express&logoColor=ffffff)
-![nodejs](https://img.shields.io/badge/-Node.JS-026e00?style=for-the-badge&logo=Node.JS&logoColor=ffffff)
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<!-- 
+![nodejs](https://img.shields.io/badge/-Node.JS-026e00?style=for-the-badge&logo=Node.JS&logoColor=ffffff) 
+-->
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-mongoDB-409937?style=for-the-badge&logo=MongoDB&logoColor=ffffff)
