@@ -72,7 +72,7 @@ Let me introduce myself :slightly_smiling_face: I'm an engineering student. as y
 ![MySQL](https://img.shields.io/badge/-mySQL-orange?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
 ### IDE/Editors
-![VSCode](https://img.shields.io/badge/-mySQL-0873B3?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/-vscode-0873B3?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=ffffff)
 
 ### Package Managers
