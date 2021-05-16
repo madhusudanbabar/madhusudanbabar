@@ -51,9 +51,7 @@ Let me introduce myself :slightly_smiling_face: I'm an engineering student. as y
 <!-- 
 ![NuxtJS](https://img.shields.io/badge/-nuxtJS-00BF8A?style=for-the-badge&logo=nuxt.JS&logoColor=ffffff)
 -->
-<img alt="Nuxt.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular&logoColor=ffffff />
-<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+<img alt="Nuxt.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <!--
 ![Vue.JS](https://img.shields.io/badge/-Vue.JS-00BF8A?style=for-the-badge&logo=Vue.JS&logoColor=ffffff)
 -->
