@@ -11,7 +11,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/source.gif" width="180" />
 
 ## 👨🏻‍💻 About Me
 
